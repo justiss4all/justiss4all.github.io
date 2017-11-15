@@ -50,7 +50,8 @@ The idea behind a theme is to focus on a potential problem or challenge a prospe
 >
 >The purpose of my call is to get 10 minutes on your calendar to share the top concerns I’m hearing from your peers.
 >
->[Optional] At the end of our call, you can decide if it makes sense to explore a few best-practices, or better yet, you may > find that \{\{company\}\} is already in great shape compared to your peers.
+>[Optional] At the end of our call, you can decide if it makes sense to explore a few best-practices, or better yet, you may 
+find that \{\{company\}\} is already in great shape compared to your peers.
 >
 >You can reach me at (404) 123-4567. Again this is Brian with Datorama. (404) 123-4567. 
 
