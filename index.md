@@ -8,7 +8,11 @@ Our outbound strategy will consist of multiple touches via email, telephone, and
 cadence is important to follow because it provides a methodology for consistently interacting with prospects and gives us a way to measure our success. 
 
 ## 10-Touch Outbound Cadence
-
+ 
+ Day | Tactic
+ -------------| -------------
+ Day 1 | Content Cell 2
+ Day 2 | Content Column 2
 
 # Time Management Strategies
 
