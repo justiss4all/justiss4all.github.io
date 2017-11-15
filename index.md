@@ -67,6 +67,24 @@ find that \{\{company\}\} is already in great shape compared to your peers.
 >
 > Thanks
 
+#### Three Challenges Email \#2
+Send this immediately after Voicemail \#2
+
+> Subject: What your peers are saying about managing their marketing spend
+>
+> \{\{FirstName\}\},
+> I just left you a message regarding some insights I have that may help you avoid the obstacles your peers are experiencing 
+> when it comes to optimizing their marketing performance. 
+>
+> I wanted to see if it would make sense to have a quick conversation to find out a little bit more about what we’re seeing in > the industry. 
+>
+> I can be reached at (404) 123-4567
+>
+> Thanks, 
+> Brian
+
+
+
 
 
 ## Sr. B2B Marketer
