@@ -161,7 +161,9 @@ Send this immediately after Voicemail \#2
 >Brian 
 
 #### 10 Minutes to 25% Voicemail \#1
-> \{\{FirstName\}\}, this is Brian with Datorama. We haven't met but I have an idea that can be shared in 10-minutes that could help \{\{company\}\} see 25% lift in conversion rates in under six months.
+> \{\{FirstName\}\}, this is Brian with Datorama. 
+>
+>We haven't met but I have an idea that can be shared in 10-minutes that could help \{\{company\}\} see 25% lift in conversion rates in under six months.
 >
 >The purpose of my call is to get 10 minutes on your calendar to share this strategy with you.
 >
