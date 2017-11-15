@@ -191,7 +191,7 @@ Send this immediately after Voicemail \#2
 >
 > I just left you a message regarding an idea that could help you improve conversion rates by as much as 25% in under six months.
 >
-> Are you or someone from the team avaialble to hop on a quick call sometime over the next week? 
+> Are you or someone from the team available to hop on a quick call sometime over the next week or two? 
 >
 > Thanks, 
 > Brian
