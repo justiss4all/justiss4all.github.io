@@ -19,11 +19,16 @@ cadence is important to follow because it provides a methodology for consistentl
  
 The goal is to add each prospect to a 10-Day Cadence until we get a yes or no.  Each Cadence will have a theme related to a common problem or challenge a prospect is experiencing for their specific role. Each touchpoint's copy will be tied to the over-arching theme. 
 
-If we’re unable to schedule an intro call after the 10 day period we’ll hold off for 2-weeks before adding them to a different themed Cadence. 
+If we’re unable to schedule an intro call after the 10 day period we’ll hold off for 2-weeks before adding them to a different themed cadence. 
 
-## Measurement
+## KPIs
+There are a number of Key Performance Indicators we'll be using to monitor the success of our efforts. 
+### Number of Emails Sent
+We should plan on 15 - 25 touches per prospect to get a discovery call. This will vary by the level of exposure to our brand but it should be a good guideline for tracking success. 
 
-# Themes
+###
+
+# Cadence Themes
 
 ## Sr. Marketer
 ## Sr. B2B Marketer
