@@ -149,7 +149,7 @@ Send this immediately after Voicemail \#2
 >
 >I have an idea that can be shared in 10-minutes that can help \{\{company\}\} improve the ROI of their marketing spend. 
 >
->We recently used this idea to help a client see an immediate 25% lift in conversion rates. 
+>We recently used this idea to help a client see a 25% lift in conversion rates in under six months. 
 >
 >\{\{FirstName\}\}, let’s schedule a quick 10-minute call so I can share this strategy with you. 
 >
@@ -161,13 +161,9 @@ Send this immediately after Voicemail \#2
 >Brian 
 
 #### 10 Minutes to 25% Voicemail \#1
-> \{\{FirstName\}\}, this is Brian with Datorama. We haven’t met but when I speak with Sr. Marketers in the industry about
-> optimizing their marketing performance there are three things that come up over and over again as the most challenging.
+> \{\{FirstName\}\}, this is Brian with Datorama. We haven't met but I have an idea that can be shared in 10-minutes that could help \{\{company\}\} see 25% lift in conversion rates in under six months.
 >
->The purpose of my call is to get 10 minutes on your calendar to share the top concerns I’m hearing from your peers.
->
->[Optional] At the end of our call, you can decide if it makes sense to explore a few best-practices, or better yet, you may 
-find that \{\{company\}\} is already in great shape compared to your peers.
+>The purpose of my call is to get 10 minutes on your calendar to share this strategy with you.
 >
 >You can reach me at (404) 123-4567. Again this is Brian with Datorama. (404) 123-4567. 
 >Thank you.
