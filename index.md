@@ -200,7 +200,7 @@ Send this immediately after Voicemail \#2
 ## Sr. Marketing Analyst
 ## Media Buyer
 
-## Activity Metrics
+# Activity Metrics
 There are a number of activity metrics and ratios we'll be using to monitor the success of our efforts. We'll measure performance on a weekly, monthly, and quarterly basis. In order for us to be successful it's critical that we log the appropriate activities in Salesforce. 
 
 ### Number of Dials
