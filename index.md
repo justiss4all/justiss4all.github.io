@@ -4,6 +4,14 @@ The purpose of this document is to provide a repeatable framework, or playbook, 
 
 # Outbound Strategy
 
+Our outbound strategy will consist of multiple touches via email, telephone, and social spread across a 10-Touch Cadence. The
+cadence is important to follow because it provides a methodology for consistently interacting with prospects and gives us a way to measure our success. 
+
+## 10-Touch Outbound Cadence
+
+Day 1 | Day 3 | Day 5 | Day 7 | Day 10
+------|-------|-------|-------|-------
+
 # Time Management Strategies
 
 ## Prioritizing Your Outreach
