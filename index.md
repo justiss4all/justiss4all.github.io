@@ -21,6 +21,7 @@ The goal is to add each prospect to a 10-Day Cadence until we get a yes or no.  
 
 If, after the 10 day period we’re unable to schedule an intro call, we’ll hold off for 2-weeks before adding them to a different themed Cadence. 
 
+# Tracking 
 
 # Time Management Strategies
 
@@ -43,30 +44,3 @@ Here are a few tips for maximizing your efficiency:
 * Pre-record your voicemails in SalesLoft 
 
 
-
-
-### Lists
-* Item 1
-* Item 2
-  * item 2a
-  * item 2b
- ### Ordered Lists
- 1. Item 1
- 2. Item 2
- 3. Item 3
-    * Item 3a
-    * Item 3b
-    
- You can also add quotes: 
- 
- > This is where you'll add the content
- > for all your emails. 
- 
- We can also add tables
- 
- First Header | Second Header
- -------------| -------------
- Content Cell 1 | Content Cell 2
- Content Column 1 | Content Column 2
- 
- We can also add :rocket:
