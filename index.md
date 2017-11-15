@@ -1,6 +1,6 @@
 # Overview
 
-The purpose of this document is to provide a repeatable framework, or playbook, for prospecting our territory. The playbook contains various tactics to gain entry into our target accounts including sample email messages, phone and voicemail scripts, social interactions, and a recommended outreach cadence. In addition, the playbook places strong emphasis on tracking our activities so we can make adjustments based on data, rather than emotions. 
+The purpose of this document is to provide a repeatable framework, or playbook, for prospecting our territory. The playbook contains various tactics to gain entry into target accounts including sample email messages, phone and voicemail scripts, social examples, and a recommended outreach cadence. In addition, the playbook places strong emphasis on tracking our activities so we can make adjustments based on data, rather than emotions. 
 
 # Outbound Strategy
 
@@ -16,6 +16,11 @@ cadence is important to follow because it provides a methodology for consistentl
  Day 5 | Phone 2, Social 2
  Day 7 | Phone 3, VM 2, Email 2
  Day 10| Phone 4
+ 
+The goal is to add each prospect to a 10-Day Cadence until we get a yes or no.  Each Cadence will have a theme related to a common problem or challenge a prospect is experiencing for their specific role. Each outreach will be tied to the specific business problem. 
+
+If, after the 10 day period we’re unable to schedule an intro call, we’ll hold off for 2-weeks before adding them to a different themed Cadence. 
+
 
 # Time Management Strategies
 
