@@ -28,6 +28,7 @@ The idea behind a theme is to focus on a potential problem or challenge a prospe
 ### Three Challenges Theme
 #### Three Challenges Email #1
 > Subject: \{\{FirstName\}\} - what I'm hearing from your peers
+>
 > \{\{FirstName\}\}, 
 >
 > Since you’re responsible for ____ at \{\{Company\}\}
