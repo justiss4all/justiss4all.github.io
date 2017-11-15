@@ -100,7 +100,7 @@ Send this immediately after Voicemail \#2
 > Brian 
 
 #### Wasting 3-15% Voicemail \#1
-> \{\{FirstName\}\}
+> \{\{FirstName\}\},
 >
 > Our research indicates that marketers are wasting between 3 and 15% of their total marketing spend on underperforming campaigns. 
 >
@@ -111,7 +111,9 @@ Send this immediately after Voicemail \#2
 >Thanks
 
 #### Wasting 3-15% Voicemail \#2
-> Hi \{\John\}\, this is Brian Justiss with Datorama. 
+> Hi \{\{FirstName\}\}, 
+> 
+> This is Brian Justiss with Datorama. 
 >
 > The reason for my call is that I have an idea to may help you avoid wasting between 3 and 15% of your total marketing spend. 
 >
