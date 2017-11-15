@@ -23,13 +23,26 @@ If we’re unable to schedule an intro call after the 10 day period we’ll hold
 
 ## Activity Metrics
 There are a number of activity metrics and ratios we'll be using to monitor the success of our efforts. 
+
 ### Number of Dials
+The number of outbound dials to a prospective customer including voicemail.
+
 ### Number of Connects
+The number of times you speak with a human over the telephone regardless of outcome. 
+
+### Number of Meaningful Conversations (MCs)
+The total number of meaningful conversations you have with prospects during a given time period. This includes an agreement to a discovery call or gathering G2 on the account such as current relationships or initiatives. While our main goal is to schedule a follow-up call, collecting information about an account is just as valuable. MCs do not include hangups or "not interested".
+
 ### Number of Emails
+The number of emails sent to a prospective customer. 
+
 ### Number of Social Impressions
+The number of social impressions made on a prospective customer.
+
 ### Dial:Connect Ratio
-### Dial:Discovery Ratio
-### Dial:SQL Ratio
+A ratio calculated 
+### Total Touch:Discovery Call Ratio
+### Total Touch:SQL Ratio
 We should plan on 15 - 25 touches per prospect to get a discovery call. This will vary by the level of exposure to our brand but it should be a good guideline for tracking success. 
 
 ###
