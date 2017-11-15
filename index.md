@@ -25,6 +25,9 @@ If we’re unable to schedule an intro call after the 10 day period we’ll hold
 The idea behind a theme is to focus on a potential problem or challenge a prospect may be grappling with over the course of a cadence. Each theme will be relevant to a specific persona. Below is a list of themes broken out by persona with example copy.
 
 ## Sr. Marketer
+### Three Challenges Theme
+#### Three Challenges Email #1
+
 ## Sr. B2B Marketer
 ## Sr. Marketing Analyst
 ## Media Buyer
