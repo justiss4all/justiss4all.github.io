@@ -94,7 +94,7 @@ Send this immediately after Voicemail \#2
 >
 > I have an idea that will help you recoup this waste and as a result, maximize the ROI of your marketing investments.
 >
-> Are you available for a 10-minute call this week? 
+> Are you available for a 10-minute call this week to discuss? 
 >
 > Thanks, 
 > Brian 
