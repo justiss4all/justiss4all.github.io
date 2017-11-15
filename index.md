@@ -59,7 +59,7 @@ find that \{\{company\}\} is already in great shape compared to your peers.
 #### Three Challenges Voicemail \#2
 > \{\{FirstName\}\}, this is Brian with Datorama
 >
-> The reason for my call is I have some insights that may help you avoid some of the pitfalls your peers have experienced when it comes to optimizing their marketing performance. 
+> The reason for my call is I have a few insights that may help you avoid some of the pitfalls your peers have experienced when it comes to optimizing their marketing performance. 
 >
 > I wanted to see if it made sense to have a quick conversation about what we’re seeing in the industry. 
 >
