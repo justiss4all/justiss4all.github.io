@@ -132,7 +132,8 @@ Send this immediately after Voicemail \#2
 >
 > Hi \{\{FirstName\}\}, 
 >
-> I just left you a message regarding some insights I have that may help you optimize 3 - 15% of your marketing spend. With > marketing spending nearly 11% of their total corporate revenue, any small adjustments could have a significant impact for \{\{company\}\}. 
+> I just left you a message regarding some insights I have that may help you optimize 3 - 15% of your marketing spend. 
+> With marketing departments spending nearly 11% of their total corporate revenue, any small adjustments could have a significant impact for \{\{company\}\}. 
 >
 >Let’s schedule a quick 10-minute call so I can share this details with you. 
 >
