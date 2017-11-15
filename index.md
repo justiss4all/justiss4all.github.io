@@ -21,6 +21,8 @@ The goal is to add each prospect to a 10-Day Cadence until we get a yes or no.  
 
 If we’re unable to schedule an intro call after the 10 day period we’ll hold off for 2-weeks before adding them to a different themed Cadence. 
 
+## Measurement
+
 # Themes
 
 ## Sr. Marketer
