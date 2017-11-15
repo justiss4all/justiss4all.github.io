@@ -22,7 +22,7 @@ The goal is to add each prospect to a 10-Day Cadence until we get a yes or no.  
 If we’re unable to schedule an intro call after the 10 day period we’ll hold off for 2-weeks before adding them to a different themed cadence. 
 
 # Cadence Themes
-The idea behind a theme is to focus on a potential problem or challenge a prospect may be grappling with over the course of a cadence. Each theme will be relevant to a specific persona. Below are the themes by persona with sample copy.
+The idea behind a theme is to focus on a potential problem or challenge a prospect may be grappling with over the course of a cadence. Each theme will be relevant to a specific persona. Below is a list of themes broken out by persona with example copy.
 
 ## Sr. Marketer
 ## Sr. B2B Marketer
