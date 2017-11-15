@@ -45,7 +45,8 @@ The idea behind a theme is to focus on a potential problem or challenge a prospe
 > Brian 
 
 ### Three Challenges Voicemail \#1
-> \{\{FirstName\}\}, this is Brian with Datorama. We haven’t met but when I speak with Sr. Marketers in the industry about >optimizing their marketing performance there are three things that come up over and over again as the most challenging.
+> \{\{FirstName\}\}, this is Brian with Datorama. We haven’t met but when I speak with Sr. Marketers in the industry about
+> optimizing their marketing performance there are three things that come up over and over again as the most challenging.
 >
 >The purpose of my call is to get 10 minutes on your calendar to share the top concerns I’m hearing from your peers.
 >
