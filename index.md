@@ -110,6 +110,19 @@ Send this immediately after Voicemail \#2
 >
 >Thanks
 
+#### Wasting 3-15% Voicemail \#2
+> Hi \{\John\}\, this is Brian Justiss with Datorama. 
+>
+> The reason for my call is that I have an idea to may help you avoid wasting between 3 and 15% of your total marketing spend. 
+>
+> I wanted to see if it would make sense for us to have a quick conversation to find out if what we do might be a fit. 
+> 
+> I can be reached at (404) 123-4567
+>
+> Again, this is Brian Justiss with Datorama and my number is (404) 123-4567. 
+>
+> Thanks, John. 
+
 
 
 ## Sr. B2B Marketer
