@@ -21,9 +21,15 @@ The goal is to add each prospect to a 10-Day Cadence until we get a yes or no.  
 
 If we’re unable to schedule an intro call after the 10 day period we’ll hold off for 2-weeks before adding them to a different themed cadence. 
 
-## KPIs
-There are a number of Key Performance Indicators we'll be using to monitor the success of our efforts. 
-### Number of Emails Sent
+## Activity Metrics
+There are a number of activity metrics and ratios we'll be using to monitor the success of our efforts. 
+### Number of Dials
+### Number of Connects
+### Number of Emails
+### Number of Social Impressions
+### Dial:Connect Ratio
+### Dial:Discovery Ratio
+### Dial:SQL Ratio
 We should plan on 15 - 25 touches per prospect to get a discovery call. This will vary by the level of exposure to our brand but it should be a good guideline for tracking success. 
 
 ###
