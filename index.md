@@ -31,15 +31,13 @@ The idea behind a theme is to focus on a potential problem or challenge a prospe
 >
 > \{\{FirstName\}\}, 
 >
-> Since you’re responsible for ____ at \{\{Company\}\}
->
 > As I speak with Sr. Marketers in the industry about optimizing their media and marketing spend, there are three things that > come up over and over again as the most challenging. 
 >
 > The purpose of my email is to get 10 minutes on your calendar to share the top concerns I’m hearing from your peers. 
 >
 > At the end of our call, you can decide if it makes sense to explore a few best-practices, or better yet, you may find that > > \{\{Company\}\} is already in great shape. 
 > 
-> Would it make sense to invest 10 minutes to determine if you’re grappling with the same issues?
+> Are you available for a quick call this week?
 > 
 > Thanks, 
 > Brian 
