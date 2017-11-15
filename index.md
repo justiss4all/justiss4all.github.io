@@ -34,16 +34,19 @@ The number of times you speak with a human over the telephone regardless of outc
 The total number of meaningful conversations you have with prospects during a given time period. This includes an agreement to a discovery call or gathering G2 on the account such as current relationships or initiatives. While our main goal is to schedule a follow-up call, collecting information about an account is just as valuable. MCs do not include hangups or "not interested".
 
 ### Number of Emails
-The number of emails sent to a prospective customer. 
+The number of emails sent to prospective customers. 
 
 ### Number of Social Impressions
-The number of social impressions made on a prospective customer.
+The number of social impressions made on a prospective customers.
 
 ### Dial:Connect Ratio
-A ratio calculated 
-### Total Touch:Discovery Call Ratio
+A ratio calculated using Number of Dials:Number of Connects. This helps us understand how clean our phone number lists is and how frequently people engage over the telephone.
+
+### Total Touch:Discovery Ratio
+A ratio calculated by adding dials, emails, and social and comparing it to the number of discovery calls. The purpose of this KPI is to help us understand how much effort is required to schedule a discovery call. We should plan on 20 - 25 total touches per cold prospect. 
+
 ### Total Touch:SQL Ratio
-We should plan on 15 - 25 touches per prospect to get a discovery call. This will vary by the level of exposure to our brand but it should be a good guideline for tracking success. 
+A ratio calculated by adding dials, emails, and social and comparing it to the number of Sales Qualified Leads.
 
 ###
 
