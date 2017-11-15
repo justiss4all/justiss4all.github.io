@@ -11,7 +11,7 @@ cadence is important to follow because it provides a methodology for consistentl
  
  Day | Tactic
  -------------| -------------
- Day 1 | Content Cell 2
+   | Email 1
  Day 2 | Content Column 2
 
 # Time Management Strategies
