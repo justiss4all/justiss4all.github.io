@@ -174,9 +174,9 @@ Send this immediately after Voicemail \#2
 #### 10 Minutes to 25% Voicemail \#2
 > \{\{FirstName\}\}, this is Brian with Datorama
 >
-> The reason for my call is I have a few insights that may help you avoid some of the pitfalls your peers have experienced when it comes to optimizing their marketing performance. 
+> The reason for my call is I have an idea that may help you improve conversion ratesy by as much as 25% in under six months.
 >
-> I wanted to see if it made sense to have a quick conversation about what we’re seeing in the industry. 
+> Please let me know if this is something you're interested in exploring.  
 >
 > I can be reached at (404) 123-4567. Again, this is Brian Justiss with Datorama and my number is (404) 123-4567
 >
@@ -185,16 +185,13 @@ Send this immediately after Voicemail \#2
 #### 10 Minutes to 25% Email \#2
 Send this immediately after Voicemail \#2
 
-> Subject: What your peers are saying about managing their marketing spend
+> Subject: 25% lift in conversion rates in under 6 months
 >
 > \{\{FirstName\}\},
 >
-> I just left you a message regarding some insights I have that may help you avoid the obstacles your peers are experiencing 
-> when it comes to optimizing their marketing performance. 
+> I just left you a message regarding an idea that could help you improve conversion rates by as much as 25% in under six months.
 >
-> I wanted to see if it would make sense to have a quick conversation to find out a little bit more about what we’re seeing in the industry. 
->
-> I can be reached at (404) 123-4567
+> Are you or someone from the team avaialble to hop on a quick call sometime over the next week? 
 >
 > Thanks, 
 > Brian
