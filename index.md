@@ -99,6 +99,17 @@ Send this immediately after Voicemail \#2
 > Thanks, 
 > Brian 
 
+#### Wasting 3-15% Voicemail \#1
+> \{\{FirstName\}\}
+>
+> Our research indicates that marketers are wasting between 3 and 15% of their total marketing spend on underperforming campaigns. 
+>
+>The purpose of my call is to share an idea that may help you avoid this issue so you can improve the ROI of your spend.
+>
+>My name is Brian Justiss with Datorama and you can reach me at (404) 123-4567. Again, my number is (404) 123-4567. 
+>
+>Thanks
+
 
 
 ## Sr. B2B Marketer
