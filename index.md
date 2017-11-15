@@ -160,6 +160,10 @@ Send this immediately after Voicemail \#2
 >Thanks, 
 >Brian 
 
+#### 10 Minutes to 25% Voicemail \#1
+#### 10 Minutes to 25% Voicemail \#2
+#### 10 Minutes to 25% Email \#2
+
 
 ## Sr. B2B Marketer
 ## Sr. Marketing Analyst
