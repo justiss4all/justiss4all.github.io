@@ -17,9 +17,16 @@ cadence is important to follow because it provides a methodology for consistentl
  Day 7 | Phone 3, VM 2, Email 2
  Day 10| Phone 4
  
-The goal is to add each prospect to a 10-Day Cadence until we get a yes or no.  Each Cadence will have a theme related to a common problem or challenge a prospect is experiencing for their specific role. Each outreach will be tied to the specific business problem. 
+The goal is to add each prospect to a 10-Day Cadence until we get a yes or no.  Each Cadence will have a theme related to a common problem or challenge a prospect is experiencing for their specific role. Each touchpoint's copy will be tied to the over-arching theme. 
 
-If, after the 10 day period we’re unable to schedule an intro call, we’ll hold off for 2-weeks before adding them to a different themed Cadence. 
+If we’re unable to schedule an intro call after the 10 day period we’ll hold off for 2-weeks before adding them to a different themed Cadence. 
+
+# Themes
+
+## Sr. Marketer
+## Sr. B2B Marketer
+## Sr. Marketing Analyst
+## Media Buyer
 
 # Tracking 
 
