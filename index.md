@@ -22,9 +22,66 @@ The goal is to add each prospect to a 10-Day Cadence until we get a yes or no.  
 If we’re unable to schedule an intro call after the 10 day period we’ll hold off for 2-weeks before adding them to a different themed cadence. 
 
 # Cadence Themes
-The idea behind a theme is to focus on a potential problem or challenge a prospect may be grappling with over the course of a cadence. Each theme will be relevant to a specific persona. Below is a list of themes broken out by persona with example copy.
+The idea behind a theme is to focus on a potential problem or challenge a prospect may be grappling with over the course of a cadence. This way, you build familiarity with each impression. Each theme will be relevant to a specific persona. Below is a list of themes broken out by persona with example copy.
 
 ## Sr. Marketer
+### Wasting 3-15% Theme
+#### Wasting 3-15% Email \#1
+> Subject:3-15% of \{\{company\}\}'s total marketing spend may be underperforming
+>
+> \{\{FirstName\}\},
+>
+> Our research indicates that most brands are wasting between 3-15% of their total marketing spend on underperforming campaigns. 
+>
+> I have an idea that will help you recoup this waste and as a result, maximize the ROI of your marketing investments.
+>
+> Are you available for a 10-minute call this week to discuss? 
+>
+> Thanks, 
+> Brian 
+
+#### Wasting 3-15% Voicemail \#1
+> \{\{FirstName\}\},
+>
+> Our research indicates that marketers are wasting between 3 and 15% of their total marketing spend on underperforming campaigns. 
+>
+>The purpose of my call is to share an idea that may help you avoid this issue so you can improve the ROI of your spend.
+>
+>My name is Brian Justiss with Datorama and you can reach me at (404) 123-4567. Again, my number is (404) 123-4567. 
+>
+>Thanks
+
+#### Wasting 3-15% Voicemail \#2
+> Hi \{\{FirstName\}\}, 
+> 
+> This is Brian Justiss with Datorama. 
+>
+> The reason for my call is that I have an idea to may help you avoid wasting between 3 and 15% of your total marketing spend. 
+>
+> I wanted to see if it would make sense for us to have a quick conversation to find out if what we do might be a fit. 
+> 
+> I can be reached at (404) 123-4567
+>
+> Again, this is Brian Justiss with Datorama and my number is (404) 123-4567. 
+>
+> Thanks
+
+#### Wasting 3-15% Email \#2
+Send this immediately after Voicemail \#2
+
+> Subject: Re: 3-15% of \{\{company\}\}'s total marketing spend may be underperforming
+>
+> Hi \{\{FirstName\}\}, 
+>
+> I just left you a message regarding some insights I have that may help you optimize 3 - 15% of your marketing spend. 
+> With marketing departments spending nearly 11% of their total corporate revenue, any small adjustments could have a significant impact for \{\{company\}\}. 
+>
+>Let’s schedule a quick 10-minute call so I can share this details with you. 
+>
+>I can be reached at (404) 123-4567
+>
+>Thanks
+
 ### Three Challenges Theme
 #### Three Challenges Email \#1
 > Subject: \{\{FirstName\}\} - what I'm hearing from your peers
@@ -84,62 +141,6 @@ Send this immediately after Voicemail \#2
 > Thanks, 
 > Brian
 
-### Wasting 3-15% Theme
-#### Wasting 3-15% Email \#1
-> Subject:3-15% of \{\{company\}\}'s total marketing spend may be underperforming
->
-> \{\{FirstName\}\},
->
-> Our research indicates that most brands are wasting between 3-15% of their total marketing spend on underperforming campaigns. 
->
-> I have an idea that will help you recoup this waste and as a result, maximize the ROI of your marketing investments.
->
-> Are you available for a 10-minute call this week to discuss? 
->
-> Thanks, 
-> Brian 
-
-#### Wasting 3-15% Voicemail \#1
-> \{\{FirstName\}\},
->
-> Our research indicates that marketers are wasting between 3 and 15% of their total marketing spend on underperforming campaigns. 
->
->The purpose of my call is to share an idea that may help you avoid this issue so you can improve the ROI of your spend.
->
->My name is Brian Justiss with Datorama and you can reach me at (404) 123-4567. Again, my number is (404) 123-4567. 
->
->Thanks
-
-#### Wasting 3-15% Voicemail \#2
-> Hi \{\{FirstName\}\}, 
-> 
-> This is Brian Justiss with Datorama. 
->
-> The reason for my call is that I have an idea to may help you avoid wasting between 3 and 15% of your total marketing spend. 
->
-> I wanted to see if it would make sense for us to have a quick conversation to find out if what we do might be a fit. 
-> 
-> I can be reached at (404) 123-4567
->
-> Again, this is Brian Justiss with Datorama and my number is (404) 123-4567. 
->
-> Thanks
-
-#### Wasting 3-15% Email \#2
-Send this immediately after Voicemail \#2
-
-> Subject: Re: 3-15% of \{\{company\}\}'s total marketing spend may be underperforming
->
-> Hi \{\{FirstName\}\}, 
->
-> I just left you a message regarding some insights I have that may help you optimize 3 - 15% of your marketing spend. 
-> With marketing departments spending nearly 11% of their total corporate revenue, any small adjustments could have a significant impact for \{\{company\}\}. 
->
->Let’s schedule a quick 10-minute call so I can share this details with you. 
->
->I can be reached at (404) 123-4567
->
->Thanks
 
 ### 10 Minutes to 25% Theme
 #### 10 Minutes to 25% Email \#1
