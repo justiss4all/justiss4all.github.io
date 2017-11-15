@@ -21,8 +21,16 @@ The goal is to add each prospect to a 10-Day Cadence until we get a yes or no.  
 
 If we’re unable to schedule an intro call after the 10 day period we’ll hold off for 2-weeks before adding them to a different themed cadence. 
 
+# Cadence Themes
+The idea behind a theme is to focus on a potential problem or challenge a prospect may be grappling with over the course of a cadence. Each theme will be relevant to a specific persona. Below are the themes by persona with sample copy.
+
+## Sr. Marketer
+## Sr. B2B Marketer
+## Sr. Marketing Analyst
+## Media Buyer
+
 ## Activity Metrics
-There are a number of activity metrics and ratios we'll be using to monitor the success of our efforts. 
+There are a number of activity metrics and ratios we'll be using to monitor the success of our efforts. We'll measure performance on a weekly, monthly, and quarterly basis. In order for us to be successful it's critical that we log the appropriate activities in Salesforce. 
 
 ### Number of Dials
 The number of outbound dials to a prospective customer including voicemail.
@@ -48,17 +56,6 @@ A ratio calculated by adding dials, emails, and social and comparing it to the n
 ### Total Touch:SQL Ratio
 A ratio calculated by adding dials, emails, and social and comparing it to the number of Sales Qualified Leads.
 
-###
-
-# Cadence Themes
-
-## Sr. Marketer
-## Sr. B2B Marketer
-## Sr. Marketing Analyst
-## Media Buyer
-
-# Tracking 
-
 # Time Management Strategies
 
 ## Prioritizing Your Outreach
@@ -69,6 +66,7 @@ In order to be as effective as possible, we need to pay close attention to how w
 * Social views or follows on LinkedIn, Twitter, etc.
 * Webinar registrants and attendees.
 * Tradeshow attendees and speakers.
+* Events on our Marketing calendar such as webinars and content. 
 
 ## Tips for Maximizing Efficiency
 
