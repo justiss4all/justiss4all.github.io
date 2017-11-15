@@ -9,8 +9,6 @@ cadence is important to follow because it provides a methodology for consistentl
 
 ## 10-Touch Outbound Cadence
 
-Day 1 | Day 3 | Day 5 | Day 7 | Day 10
-------|-------|-------|-------|-------
 
 # Time Management Strategies
 
