@@ -161,9 +161,44 @@ Send this immediately after Voicemail \#2
 >Brian 
 
 #### 10 Minutes to 25% Voicemail \#1
-#### 10 Minutes to 25% Voicemail \#2
-#### 10 Minutes to 25% Email \#2
+> \{\{FirstName\}\}, this is Brian with Datorama. We haven’t met but when I speak with Sr. Marketers in the industry about
+> optimizing their marketing performance there are three things that come up over and over again as the most challenging.
+>
+>The purpose of my call is to get 10 minutes on your calendar to share the top concerns I’m hearing from your peers.
+>
+>[Optional] At the end of our call, you can decide if it makes sense to explore a few best-practices, or better yet, you may 
+find that \{\{company\}\} is already in great shape compared to your peers.
+>
+>You can reach me at (404) 123-4567. Again this is Brian with Datorama. (404) 123-4567. 
+>Thank you.
 
+#### 10 Minutes to 25% Voicemail \#2
+> \{\{FirstName\}\}, this is Brian with Datorama
+>
+> The reason for my call is I have a few insights that may help you avoid some of the pitfalls your peers have experienced when it comes to optimizing their marketing performance. 
+>
+> I wanted to see if it made sense to have a quick conversation about what we’re seeing in the industry. 
+>
+> I can be reached at (404) 123-4567. Again, this is Brian Justiss with Datorama and my number is (404) 123-4567
+>
+> Thanks
+
+#### 10 Minutes to 25% Email \#2
+Send this immediately after Voicemail \#2
+
+> Subject: What your peers are saying about managing their marketing spend
+>
+> \{\{FirstName\}\},
+>
+> I just left you a message regarding some insights I have that may help you avoid the obstacles your peers are experiencing 
+> when it comes to optimizing their marketing performance. 
+>
+> I wanted to see if it would make sense to have a quick conversation to find out a little bit more about what we’re seeing in the industry. 
+>
+> I can be reached at (404) 123-4567
+>
+> Thanks, 
+> Brian
 
 ## Sr. B2B Marketer
 ## Sr. Marketing Analyst
