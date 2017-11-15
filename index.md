@@ -143,17 +143,17 @@ Send this immediately after Voicemail \#2
 
 ### 10 Minutes to 25% Theme
 #### 10 Minutes to 25% Email \#1
->Subject: {{FirstName}} // 10-minutes to get a 25% lift in conversion rates
+>Subject: \{\{FirstName\}\} // 10-minutes to get a 25% lift in conversion rates
 >
->{{FirstName}}, 
+>\{\{FirstName\}\}, 
 >
->I have an idea that can be shared in 10-minutes that can help {{Company}} improve the ROI of their marketing spend. 
+>I have an idea that can be shared in 10-minutes that can help \{\{company\}\} improve the ROI of their marketing spend. 
 >
 >We recently used this idea to help a client see an immediate 25% lift in conversion rates. 
 >
->{{FirstName}}, let’s schedule a quick 10-minute call so I can share this strategy with you. 
+>\{\{FirstName\}\}, let’s schedule a quick 10-minute call so I can share this strategy with you. 
 >
->I can be reached at (404) 783-6139.
+>I can be reached at (404) 123-4567.
 >
 >When is best for you? 
 >
