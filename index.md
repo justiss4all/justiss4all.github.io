@@ -208,7 +208,9 @@ Send this immediately after Voicemail \#2
 > I have an idea that will help you recoup this waste and as a result, maximize the ROI of your marketing spend and drive more 
 qualified leads. 
 >
-> If you'd like to learn more, let's set up a quick call. How does your schedule look this week?
+> If you'd like to learn more, let's set up a quick call. 
+>
+> How does your schedule look this week?
 >
 > Thanks, 
 > Brian 
