@@ -215,6 +215,48 @@ qualified leads.
 > Thanks, 
 > Brian 
 
+#### Wasting 3-15% Voicemail \#1
+> \{\{FirstName\}\},
+>
+> Our research indicates that marketers are wasting between 3 and 15% of their total marketing spend on underperforming campaigns. 
+>
+>The purpose of my call is to share an idea that may help you avoid this issue so you can improve the ROI of your spend.
+>
+>My name is Brian Justiss with Datorama and you can reach me at (404) 123-4567. Again, my number is (404) 123-4567. 
+>
+>Thanks
+
+#### Wasting 3-15% Voicemail \#2
+> Hi \{\{FirstName\}\}, 
+> 
+> This is Brian Justiss with Datorama. 
+>
+> The reason for my call is that I have an idea to may help you optimize between 3 and 15% of your total marketing spend so you can drive more qualified leads. 
+>
+> I wanted to see if it would make sense for us to have a quick conversation to find out if what we do might be a fit. 
+> 
+> I can be reached at (404) 123-4567
+>
+> Again, this is Brian Justiss with Datorama and my number is (404) 123-4567. 
+>
+> Thanks
+
+#### Wasting 3-15% Email \#2
+Send this immediately after Voicemail \#2
+
+> Subject: Re: 3-15% of \{\{company\}\}'s total marketing spend may be underperforming
+>
+> Hi \{\{FirstName\}\}, 
+>
+> I just left you a message regarding some insights I have that may help you optimize 3 - 15% of your marketing spend. 
+> With marketing departments spending nearly 11% of their total corporate revenue, any small adjustments could have a significant impact on \{\{company\}\}'s top-line growth. 
+>
+>Let’s schedule a quick 10-minute call so I can share this details with you. 
+>
+>I can be reached at (404) 123-4567
+>
+>Thanks
+
 ## Sr. Marketing Analyst
 ## Media Buyer
 
