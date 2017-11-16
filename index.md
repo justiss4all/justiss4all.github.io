@@ -220,7 +220,7 @@ qualified leads.
 >
 > Our research indicates that marketers are wasting between 3 and 15% of their total marketing spend on underperforming campaigns. 
 >
->The purpose of my call is to share an idea that may help you avoid this issue so you can improve the ROI of your spend.
+>The purpose of my call is to share an idea that has helped many B2B marketers overcome this obstacle and improve the ROI of their spend.
 >
 >My name is Brian Justiss with Datorama and you can reach me at (404) 123-4567. Again, my number is (404) 123-4567. 
 >
