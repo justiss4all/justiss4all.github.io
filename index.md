@@ -197,6 +197,22 @@ Send this immediately after Voicemail \#2
 > Brian
 
 ## Sr. B2B Marketer
+### Wasting 3-15% Theme
+#### Wasting 3-15% Email \#1
+> Subject:3-15% of \{\{company\}\}'s total marketing spend may be underperforming
+>
+> \{\{FirstName\}\},
+>
+> Our research indicates that most brands are wasting between 3-15% of their total marketing spend on underperforming campaigns. 
+>
+> I have an idea that will help you recoup this waste and as a result, maximize the ROI of your marketing spend and drive more 
+qualified leads. 
+>
+> If you'd like to learn more, let's set up a quick call. How does your schedule look this week?
+>
+> Thanks, 
+> Brian 
+
 ## Sr. Marketing Analyst
 ## Media Buyer
 
