@@ -278,7 +278,7 @@ Send this immediately after Voicemail \#2
 >
 > We haven't met but I have an idea that may help you drive more leads, pipeline, and sales from your marketing programs.
 >
-> We recently used this idea at Salesforce and IBM to improve marketing ROI and increase MQL's in under six weeks and I'd like to share how. 
+> We recently used this idea at Salesforce and IBM to improve marketing ROI and increase MQL's in under two months and I'd like to share how. 
 >
 > I can be reached at (404) 123-4567. Again, this is Brian Justiss with Datorama and my number is (404) 123-4567
 >
@@ -306,7 +306,7 @@ Send this immediately after Voicemail \#2
 >
 > I just left you a message regarding some insights I have that may help you drive more qualified leads from your marketing programs. 
 > 
-> Many of our clients have seen a 25% lift in conversion rates and a 14% lift in qualified leads. 
+> Many of our clients have seen a 25% lift in conversion rates and a 14% lift in qualified leads in under two months. 
 >
 > Let’s schedule a quick 10-minute call so I can share how we're doing this for similar B2B markters. 
 >
