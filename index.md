@@ -141,7 +141,6 @@ Send this immediately after Voicemail \#2
 > Thanks, 
 > Brian
 
-
 ### 10 Minutes to 25% Theme
 #### 10 Minutes to 25% Email \#1
 >Subject: \{\{FirstName\}\} // 10-minutes to get a 25% lift in conversion rates
@@ -256,6 +255,24 @@ Send this immediately after Voicemail \#2
 >I can be reached at (404) 123-4567
 >
 >Thanks
+
+### Drive more leads, pipeline, and sales
+#### Drive more leads Email \#1
+> Subject: Idea for driving more leads, pipeline, and sales from marketing
+>
+> \{\{FirstName\}\},
+>
+> I have an idea that I can explain in 10 minutes that may help \{\{company\}\} drive more leads, pipeline, and sales from your marketing programs. 
+>
+> We recently used this idea at Salesforce and IBM to improve marketing ROI and increase MQL's in under six weeks.  
+>
+> Let's schedule a quick 10-minute call so I can share the idea with you.
+>
+> When works best for you?
+>
+> Thanks, 
+> Brian 
+
 
 ## Sr. Marketing Analyst
 ## Media Buyer
