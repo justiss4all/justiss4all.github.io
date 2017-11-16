@@ -256,7 +256,7 @@ Send this immediately after Voicemail \#2
 >
 >Thanks
 
-### Drive more Leads, Pipeline, and Sales Theme
+### Drive more Leads, Pipe, and Sales Theme
 #### Drive more leads Email \#1
 > Subject: Idea for driving more leads, pipeline, and sales from marketing
 >
@@ -273,6 +273,46 @@ Send this immediately after Voicemail \#2
 > Thanks, 
 > Brian 
 
+#### Drive more leads Voicemail \#1
+> \{\{FirstName\}\}, this is Brian with Datorama
+>
+> We haven't met but I have an idea that may help you drive more leads, pipeline, and sales from your marketing programs.
+>
+> We recently used this idea at Salesforce and IBM to improve marketing ROI and increase MQL's in under six weeks and I'd like to share how. 
+>
+> I can be reached at (404) 123-4567. Again, this is Brian Justiss with Datorama and my number is (404) 123-4567
+>
+> Thanks
+
+#### Drive more leads Voicemail \#2
+> \{\{FirstName\}\}, this is Brian with Datorama
+>
+> The reason for my call is I have an idea that may help you drive more leads, pipeline, and sales from your marketing programs.
+>
+> I wanted to see if it would make sense to have a quick conversation to find out if what we do might be a fit. 
+>  
+> I can be reached at (404) 123-4567. 
+>
+> Again, this is Brian Justiss with Datorama and my number is (404) 123-4567
+>
+> Thanks
+
+#### Drive more leads Email \#2
+Send this immediately after Voicemail \#2
+
+> Subject: Re: Idea for driving more leads, pipeline, and sales from marketing
+>
+> Hi \{\{FirstName\}\}, 
+>
+> I just left you a message regarding some insights I have that may help you drive more qualified leads from your marketing programs. 
+> 
+> Many of our clients have seen a 25% lift in conversion rates and a 14% lift in qualified leads. 
+>
+> Let’s schedule a quick 10-minute call so I can share how we're doing this for similar B2B markters. 
+>
+> I can be reached at (404) 123-4567
+>
+> Thanks
 
 ## Sr. Marketing Analyst
 ## Media Buyer
