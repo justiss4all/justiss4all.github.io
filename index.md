@@ -231,7 +231,7 @@ qualified leads.
 > 
 > This is Brian Justiss with Datorama. 
 >
-> The reason for my call is that I have an idea to may help you optimize between 3 and 15% of your total marketing spend so you can drive more qualified leads. 
+> The reason for my call is that I have an idea that may help you optimize between 3 and 15% of your total marketing spend so you can drive more qualified leads. 
 >
 > I wanted to see if it would make sense for us to have a quick conversation to find out if what we do might be a fit. 
 > 
